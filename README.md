@@ -1,4 +1,4 @@
-🌍 Sprachen: [🇺🇸 English](https://github.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/blob/main/README.md#) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/blob/main/README.de.md)
+🌍 Sprachen: [🇺🇸 English](https://github.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/blob/main/README.md#) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/GLX-Mail-Relaod-Nextcloud-App-/blob/main/README.de.md)
 
 <div align="center">
 
