@@ -36,7 +36,7 @@ That is the gap this app closes. It asks the server on a schedule whether anythi
 One switch to turn it on, one number for the interval. That is the whole configuration — deliberately. ⚙️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/main/settings.png" alt="Settings page" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Relaod-Nextcloud-App-/blob/main/settings.png" alt="Settings page" width="850">
 </p>
 
 ---
