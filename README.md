@@ -116,6 +116,6 @@ This project is licensed under the **AGPL-3.0-or-later** license. See the [LICEN
 
 ## 🔗 More about this app
 
-👉 **[GLX-Mail-Reload on gordonx.de](https://gordonx.de/)** — description, screenshots and download.
+👉 **[GLX-Mail-Reload on gordonx.de](https://gordonx.de/glx-mail-relaod-nextcloud/)** — description, screenshots and download.
 
 ---
