@@ -46,7 +46,7 @@ One switch to turn it on, one number for the interval. That is the whole configu
 While the helper is active, a small gear sits next to search and notifications. It spins briefly with every check and dims while paused — so you can always tell what is going on. Clicking it takes you straight to the settings. 🔘
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/main/header-icon.png" alt="The gear icon in the header bar" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Relaod-Nextcloud-App-/blob/main/header-icon.png" alt="The gear icon in the header bar" width="850">
 </p>
 
 ---
