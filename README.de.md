@@ -36,7 +36,7 @@ Genau diese Lücke schließt die App. Sie fragt im eingestellten Takt nach, ob e
 Ein Schalter zum Einschalten, eine Zahl für den Takt. Mehr gibt es bewusst nicht einzustellen. ⚙️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/main/settings.png" alt="Einstellungsseite" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Relaod-Nextcloud-App-/raw/main/settings.png" alt="Einstellungsseite" width="850">
 </p>
 
 ---
@@ -46,7 +46,7 @@ Ein Schalter zum Einschalten, eine Zahl für den Takt. Mehr gibt es bewusst nich
 Ist die Unterstützung aktiv, sitzt neben Suche und Glocke ein kleines Zahnrad. Es dreht sich kurz bei jeder Prüfung und wird blass, solange pausiert wird — du siehst also jederzeit, was gerade läuft. Ein Klick führt direkt zu den Einstellungen. 🔘
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamdancer100/Nextcloud-GLX-Mail-Reload/main/header-icon.png" alt="Das Zahnrad in der Kopfleiste" width="850">
+  <img src="https://github.com/Dreamdancer100/GLX-Mail-Relaod-Nextcloud-App-/raw/main/header-icon.png" alt="Das Zahnrad in der Kopfleiste" width="850">
 </p>
 
 ---
